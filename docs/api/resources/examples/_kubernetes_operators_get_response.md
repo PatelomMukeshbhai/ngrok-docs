@@ -12,7 +12,7 @@
 		},
 		"endpoint_selectors": null
 	},
-	"created_at": "2025-04-25T22:55:40Z",
+	"created_at": "2025-04-27T10:07:02Z",
 	"deployment": {
 		"cluster_name": "",
 		"name": "ngrok-operator",
@@ -21,14 +21,14 @@
 	},
 	"description": "Example Kubernetes Operator",
 	"enabled_features": ["ingress"],
-	"id": "k8sop_2wEzuBio44dFnoBatYvfuvdUuO4",
+	"id": "k8sop_2wJ8fxw3k7iDsRoHnENddPomcDF",
 	"metadata": "{\"environment\": \"staging\"}",
 	"principal": {
-		"id": "usr_2wEzqavPsqhEJcM6Mes5PsXNAPe",
+		"id": "usr_2wJ8cNN4DZbPP6f7B8DzKMWFDLV",
 		"uri": ""
 	},
 	"region": "global",
-	"updated_at": "2025-04-25T22:55:40Z",
-	"uri": "https://api.ngrok.com/kubernetes_operators/k8sop_2wEzuBio44dFnoBatYvfuvdUuO4"
+	"updated_at": "2025-04-27T10:07:02Z",
+	"uri": "https://api.ngrok.com/kubernetes_operators/k8sop_2wJ8fxw3k7iDsRoHnENddPomcDF"
 }
 ```
